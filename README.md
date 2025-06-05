@@ -1,5 +1,6 @@
-![Logo_largo](assets/logo_largo.png)
+
 # Introduccion
+
 ¡Hola!
 
 En este espacio depositaremos algunos recursos de interés, como Informes Temáticos que muestran cómo transformamos datos en hallazgos relevantes para la toma de decisiones, entre otras cosas relacionadas a nuestro trabajo.

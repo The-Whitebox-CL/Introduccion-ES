@@ -1,4 +1,4 @@
-<img src="assets/WB_Logo Negro.jpg" alt="Logo The Whitebox" width="800"/>
+<img src="assets/WB_Logo Negro.png" alt="Logo The Whitebox" width="800"/>
 
 # Introduccion
 

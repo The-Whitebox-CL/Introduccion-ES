@@ -1,4 +1,5 @@
-![Logo Whitebox](assets/WB_Logo Blanco.png)
+<img src="assets/WB_Logo Blanco.png" alt="Logo The Whitebox" width="200"/>
+
 # Introduccion
 
 ¡Hola!
@@ -7,6 +8,6 @@ En este espacio depositaremos algunos recursos de interés, como Informes Temát
 
 Para consultas, por favor escribir al correo de contacto.
 
-Sitio web: https://thewhitebox.cl/es/
 
+Sitio web: https://thewhitebox.cl/es
 Correo: contacto@thewhitebox.cl

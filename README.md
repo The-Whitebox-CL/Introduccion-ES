@@ -7,4 +7,5 @@ En este espacio depositaremos algunos recursos de interés, como Informes Temát
 Para consultas, por favor escribir al correo de contacto.
 
 Sitio web: https://thewhitebox.cl/es/
+
 Correo: contacto@thewhitebox.cl

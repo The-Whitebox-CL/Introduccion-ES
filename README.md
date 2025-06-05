@@ -1,4 +1,4 @@
-![Logo_largo_twbEmpresa](assets/logo_largo.png)
+![Logo_largo](assets/logo_largo.png)
 # Introduccion
 ¡Hola!
 

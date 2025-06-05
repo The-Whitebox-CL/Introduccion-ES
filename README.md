@@ -1,4 +1,4 @@
-![Logo Whitebox](assets/WB_Logo_Blanco.png)
+![Logo Whitebox](assets/WB_Logo Blanco.png)
 # Introduccion
 
 ¡Hola!
